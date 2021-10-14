@@ -1,0 +1,7 @@
+bears: 17 elephants 9 end
+
+	the money move -27 + 10 
+
+_= 11
+
++2
